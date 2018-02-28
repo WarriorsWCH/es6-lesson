@@ -85,7 +85,7 @@ function test8() {
   function F3() {
     this.id = "012345";
     setTimeout(function() {
-      console.log(this.id); //这个id是全局的id
+      console.log('函数：',this.id); //这个id是全局的id
     }, 100);
   }
 
@@ -97,7 +97,7 @@ function test8() {
     var self = this;
     setTimeout(function() {
       //如果想要获得当前对象的id使用变量self调用
-      console.log(self.id);
+      console.log('函数：',self.id);
     }, 100);
   }
   new F4();
@@ -106,7 +106,7 @@ function test8() {
     this.id = "8888888";
     setTimeout(() => {
       //箭头函数中的this，指向的是当前的对象
-      console.log(this.id);
+      console.log('函数：',this.id);
     }, 100);
   }
   new F5();

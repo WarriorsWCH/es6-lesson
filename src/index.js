@@ -6,6 +6,7 @@ import test5 from './05-string.js'
 import test6 from './06-number.js'
 import test7 from './07-array.js'
 import test8 from './08-function.js'
+import test9 from './09-object.js'
 
 test1();
 test2();
@@ -15,3 +16,4 @@ test5();
 test6();
 test7();
 test8();
+test9();
