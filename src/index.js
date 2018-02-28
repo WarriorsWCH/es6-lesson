@@ -8,6 +8,7 @@ import test7 from './07-array.js'
 import test8 from './08-function.js'
 import test9 from './09-object.js'
 import test10 from './10-symbol.js'
+import test11 from './11-set-map.js'
 
 test1();
 test2();
@@ -19,3 +20,4 @@ test7();
 test8();
 test9();
 test10();
+test11();
