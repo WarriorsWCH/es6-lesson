@@ -10,6 +10,7 @@ import test9 from './09-object.js'
 import test10 from './10-symbol.js'
 import test11 from './11-set-map.js'
 import test12 from './12-class.js'
+import test13 from './13-proxy-reflect.js'
 
 test1();
 test2();
@@ -23,3 +24,4 @@ test9();
 test10();
 test11();
 test12();
+test13();
