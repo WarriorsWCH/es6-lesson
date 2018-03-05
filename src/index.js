@@ -12,6 +12,7 @@ import test11 from './11-set-map.js'
 import test12 from './12-class.js'
 import test13 from './13-proxy-reflect.js'
 import test14 from './14-promise.js'
+import test15 from './15-iterator.js'
 
 test1();
 test2();
@@ -27,3 +28,4 @@ test11();
 test12();
 test13();
 test14();
+test15();
