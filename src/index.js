@@ -13,6 +13,7 @@ import test12 from './12-class.js'
 import test13 from './13-proxy-reflect.js'
 import test14 from './14-promise.js'
 import test15 from './15-iterator.js'
+import test16 from './16-generator.js'
 
 test1();
 test2();
@@ -29,3 +30,4 @@ test12();
 test13();
 test14();
 test15();
+test16();
