@@ -14,20 +14,22 @@ import test13 from './13-proxy-reflect.js'
 import test14 from './14-promise.js'
 import test15 from './15-iterator.js'
 import test16 from './16-generator.js'
+import test17 from './17-async.js'
 
-test1();
-test2();
-test3();
-test4();
-test5();
-test6();
-test7();
-test8();
-test9();
-test10();
-test11();
-test12();
-test13();
-test14();
-test15();
-test16();
+// test1();
+// test2();
+// test3();
+// test4();
+// test5();
+// test6();
+// test7();
+// test8();
+// test9();
+// test10();
+// test11();
+// test12();
+// test13();
+// test14();
+// test15();
+// test16();
+test17();
