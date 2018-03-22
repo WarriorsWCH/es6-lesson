@@ -14,7 +14,7 @@
 
 ### 3.es6知识点
 - const，let
-- 结构赋值
+- 解构赋值
 - String，NUmber，Array，function，Object扩展
 - Symbol，Set，Map
 - Class
